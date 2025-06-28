@@ -5,4 +5,5 @@ This is how you do it on the desktop  ...
 This is how you do it on the server on the server ...
 >>>>>>> b1777e54501458c7713e0b8550dd20bf24e836a0
 
-aSDFasf d>ASfgt hl wrpuhAWR g; uiasrgf ihawrt gAErg h;aorh that is funny
+Troubleshooting
+---------------
